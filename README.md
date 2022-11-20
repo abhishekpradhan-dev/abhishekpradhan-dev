@@ -4,7 +4,7 @@
 - 🔭 **I'm on track for learning more about Data Structures and Algorithm, Software Development & Application Development.**
 - 👀 **Interested in Web Development and Competitive Programming.**
 - 👨‍💻 **Learning on LeetCode, CodeChef, HackerRank and GeeksforGeeks.**
-- 📫  Reach me at require "contact.abhishekpradhan@gmail.com" 
+- 📫  Reach me at "contact.abhishekpradhan@gmail.com" 
 
 
 <!---
